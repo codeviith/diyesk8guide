@@ -14,22 +14,9 @@ function Generate() {
 
 
   return (
-    <BrowserRouter>
-      <main>
-        <NavBar/>
-        <Switch>
-            <Route exact path="/">
-                <About />
-            </Route>
-            <Route path="/ ___ ">
-
-            </Route>
-            <Route path="/ ___ ">
-
-            </Route>
-        </Switch>
-      </main>
-    </BrowserRouter>
+    <div>
+      
+    </div>
   )
 }
 

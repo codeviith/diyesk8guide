@@ -3,11 +3,14 @@ import React from "react";
 function About() {
     return (
       <div className="about">
-        <h5>About This Page</h5>
-        <span>This page is for prospective or returning eboard builders to learn how to make their own eboards.
-        To see an example build, please enter the desired specs for your build and a sample build will be generated for you.
-        Feel free to refer to the forums to learn more about ebaording.
-        If you would like to test your knowledge on eboard building, feel free to play the game.
+        <h5>Welcome to the DIY Electric Skateboard Guide: Unleash Your Potential and Skate like a Pro!</h5>
+        <span>
+          Are you ready to elevate your skateboarding experience to a whole new level?
+          Look no further!
+          Our DIY Electric Skateboard Guide is your gateway to the exciting world of crafting your own electric-powered ride.
+        </span>
+        <span>
+          Whether you're a seasoned skateboarder seeking an electrifying upgrade or a DIY enthusiast eager to embark on a thrilling project, this is the place for you.
         </span>
       </div>
     );
